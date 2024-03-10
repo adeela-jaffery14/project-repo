@@ -1,3 +1,3 @@
-#DEMO
+#Demo Project
 
-Description Needed.
+Hi all! Thank you for viewing my demo project.
